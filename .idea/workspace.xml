@@ -2,67 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7dc8ed57-e479-4e68-9c61-0cd74dc32b1c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Firebase-Authentication-for-Javascript.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/git/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/git/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/git/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/git/benchmarks/benchmark.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/git/lib/diff/block.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/git/lib/diff/callbacks.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/git/lib/diff/change.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/git/lib/diff/diff.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/git/lib/diff/hunk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/git/lib/git/actor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/git/lib/git/binary_parser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/git/lib/git/blame.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/git/lib/git/blame_line.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/git/lib/git/blob.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/git/lib/git/commit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/git/lib/git/commit_stats.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/git/lib/git/config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/git/lib/git/diff.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/git/lib/git/file_index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/git/lib/git/file_window.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/git/lib/git/git.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/git/lib/git/git_file_operations.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/git/lib/git/git_index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/git/lib/git/git_object.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/git/lib/git/head.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/git/lib/git/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/git/lib/git/internal/directory_entry.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/git/lib/git/internal/git_blob.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/git/lib/git/internal/git_commit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/git/lib/git/internal/git_tag.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/git/lib/git/internal/git_tree.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/git/lib/git/loose_storage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/git/lib/git/merge.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/git/lib/git/pack_storage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/git/lib/git/raw_object.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/git/lib/git/ref.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/git/lib/git/remote.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/git/lib/git/repo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/git/lib/git/repository.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/git/lib/git/status.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/git/lib/git/status_file.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/git/lib/git/sub_module.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/git/lib/git/tag.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/git/lib/git/tree.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/git/lib/git/user_info.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/git/lib/sprintf/sprintf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/git/lib/zlib/zlib.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/git/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mime/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mime/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mime/mime.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mime/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mime/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mime/types/mime.types" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mime/types/node.types" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/package-lock.json" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -149,8 +89,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -165,6 +103,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -264,15 +204,17 @@
       <option name="presentableId" value="Default" />
       <updated>1544298475344</updated>
       <workItem from="1544298476760" duration="1278000" />
-      <workItem from="1544299883165" duration="127000" />
+      <workItem from="1544299883165" duration="260000" />
+      <workItem from="1544300184968" duration="2000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1405000" />
+    <option name="totallyTimeSpent" value="1540000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -280,7 +222,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30731708" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3063209" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -303,6 +245,30 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Auth">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Auth">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
